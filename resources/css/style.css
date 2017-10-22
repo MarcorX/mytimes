@@ -202,6 +202,7 @@ footer {
   font-family: Verdana;
   font-size: 12px;
   flex-direction: column;
+  margin: auto;
 }
 
 footer .title {
